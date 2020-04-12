@@ -21,4 +21,7 @@ footer : 저작권 표시
 각 카테고리 마우스 호버링 효과
 각 카테고리 마우스 클릭/터치 : 카테고리별 갤러리 표시
 
+<a href="http://photohnd.synology.me/portfolio_PHOTOHND/admin_index.php">PHOTOHND PHOTOGRAPHY Admin</a>
 
+<관리자 페이지>
+갤러리 이미지, 썸네일, 프로젝트 게시물 관리(CRUD)
